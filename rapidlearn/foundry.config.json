@@ -1,0 +1,11 @@
+{
+  "foundryUrl": "https://lp9.usw-3.palantirfoundry.com",
+  "site": {
+    "application": "ri.third-party-applications.main.application.2de96346-c823-4d0a-b882-7e7f0059f4e4",
+    "directory": "./dist",
+    "autoVersion": {
+      "type": "git-describe",
+      "tagPrefix": ""
+    }
+  }
+}
